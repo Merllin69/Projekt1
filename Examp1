@@ -1,0 +1,5 @@
+class Examp1{
+public static void main(String args[]){
+Sistem.out.println("Hello.");
+}
+}
